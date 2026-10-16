@@ -7,7 +7,7 @@
     flex-wrap: wrap;
     width: 600px;
     height: 120px;
-    justify-content: left;
+    justify-content: right;
 }
 
 .container div {
