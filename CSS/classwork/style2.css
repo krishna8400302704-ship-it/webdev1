@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+.nav {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: grey;
+    width: 100%;
+    align-items: center;
+    /* justify-content: center; */
+}
+
+.name {
+    margin-right: 80px;
+    font-size: 30px;
+}
+
+a {
+    position: relative;
+    left: 70px;
+    text-decoration: none;
+    font-size: 20px;
+    color: black;
+}
+
+.container {
+    height: 280px;
+    width: 350px;
+    text-align: center;
+    background: green;
+    margin: 50px;
+    border-radius: 20px;
+}
